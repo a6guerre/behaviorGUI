@@ -1,0 +1,16 @@
+cycler==0.10.0
+enum-compat==0.0.2
+eventlet==0.20.1
+greenlet==0.4.15
+kiwisolver==1.0.1
+matplotlib==3.0.1
+mysql-connector-python==8.0.13
+numpy==1.15.4
+protobuf==3.6.1
+pyparsing==2.2.0
+PyQt5==5.11.3
+PyQt5-sip==4.19.13
+pyserial==3.4
+python-dateutil==2.6.0
+sip==4.19.8
+six==1.10.0
